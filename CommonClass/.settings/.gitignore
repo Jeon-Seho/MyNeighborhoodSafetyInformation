@@ -1,7 +1,2 @@
-*.classpath
-*.project
-*.png
-*.env
-/bin/
 /org.eclipse.core.resources.prefs
 /org.eclipse.jdt.core.prefs

@@ -27,5 +27,6 @@ replay_pid*
 *.project
 *.png
 *.env
+/bin/
 
 PrivateData.java
